@@ -1,2 +1,1 @@
-# TEST
-just test.
+easy to study
